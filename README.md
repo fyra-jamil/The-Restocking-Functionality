@@ -3,13 +3,13 @@
 ## Introduction
 
 This project is all about my participation in Professional Certificate in Coding: Women's Cohort (April 2021) prepared by the MIT.<br/>
-In this anime dictionary, we can search and find out details regarding Japanese animation <br/>
+In the Restocking Functionality, we can restock our stock of items by clicking the restock button, which will add more items to our list of depleted items<br/>
 
-API that we use is from Jikan-API :
+API that we use is Strapi :
 
-Jikan (時間) is an open-source PHP & REST API for the “most active online anime + manga community and database” — MyAnimeList.net. It parses the website to satisfy the need for an API.
+Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.
 
-URL : https://jikan.moe/
+URL : https://strapi.io/
 
 ## Installation / Requirements
 
